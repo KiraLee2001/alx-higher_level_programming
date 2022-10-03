@@ -1,0 +1,1 @@
+This project is a review about everything we have done so far on python. We also learn new concepts like args and kwargs, serialization/deserialization and JSON.
